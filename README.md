@@ -12,7 +12,7 @@
 </div>
 
 <!-- 간단한 자기 소개 -->
-<h4 align="center">Hello There✋<br/> I'm currently working for Zapple.Inc as Junior Software Engineer (Back-end Developer).</h4>
+<h4 align="center">Hello There✋<br/> I'm currently working for Zapple.Inc as a Junior Software Engineer (Full-Stack Developer).</h4>
 <h4 align="center">If you have any questions, please contact me by 'wjddk718@naver.com'</h4>
 
 <!-- 기술 스택 -->
